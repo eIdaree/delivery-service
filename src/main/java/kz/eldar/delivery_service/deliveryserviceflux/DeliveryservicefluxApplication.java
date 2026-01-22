@@ -1,4 +1,4 @@
-package kz.eldar.product_service.deliveryserviceflux;
+package kz.eldar.delivery_service.deliveryserviceflux;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
